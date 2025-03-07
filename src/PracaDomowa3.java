@@ -1,5 +1,8 @@
 public class PracaDomowa3 {
     public static void main(String[] args) {
+
+//wypisanie wszystkich liczb od 0 do 100, podzielnych przez 3
+
 /*
         for (int i=0; i<=100; i++) {
             if (i%3 == 0) {
@@ -7,6 +10,8 @@ public class PracaDomowa3 {
             }
         }
 */
+
+// odwrócenie kolejności w tablicy
         int[] numbers = new int[] {1,3,5,7,0};
 
         for (int i=0;i<(numbers.length/2); i++) {
