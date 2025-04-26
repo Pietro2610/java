@@ -3,26 +3,26 @@ public class AutoTest {
 
         Auto auto = new Auto("Audi", "A6", 2003, 1200);
         auto.info();
-/*      Auto mercedes = new Auto();
+      Auto mercedes = new Auto();
         mercedes.marka = "Mercedes";
         mercedes.model = "Klasa S";
         mercedes.rok = 1999;
-        mercedes.przebieg = 1000;*/
+        mercedes.przebieg = 1000;
 
-   /*     mercedes.jedz();
+        mercedes.jedz();
         mercedes.hamuj();
-        mercedes.info();*/
+        mercedes.info();
 
-/*      Auto audi = new Auto();
+      Auto audi = new Auto();
       audi.marka = "Audi";
       audi.model = "A5";
       audi.rok = 2020;
-      audi.przebieg = 0;*/
-    //  audi.info();
+      audi.przebieg = 0;
+      audi.info();
 
-/*      Auto noname = new Auto();
+      Auto noname = new Auto();
 
-      noname.info();*/
+      noname.info();
 
     }
 }
