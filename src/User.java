@@ -2,9 +2,9 @@ public class User {
     public String username;
     public String password;
 
-    public User() {
+/*    public User() {
         System.out.println("Użytkownik z konstruktorem");
-    }
+    }*/
 
     public User(String username, String password){
         System.out.println("Nazwa użytkownika to "+username);
