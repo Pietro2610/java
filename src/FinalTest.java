@@ -1,0 +1,11 @@
+public class FinalTest {
+
+    public static void main(String[] args) {
+
+        final int x = 2;
+
+        final Person person = new Person("Jacek", 22);
+
+        person = new Person("Placek", 21);
+    }
+}

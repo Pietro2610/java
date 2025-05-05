@@ -16,10 +16,10 @@ public class PersonTest {
         System.out.println(footballer.footballClub);
         footballer.name = "Tim";
         footballer.age = 23;*/
-        footballer.walk();
+//        footballer.walk();
         footballer.eat();
-        footballer.playFootball();
-        footballer.sayHello();
+//        footballer.playFootball();
+//        footballer.sayHello();
 
     }
 }
