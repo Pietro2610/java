@@ -6,6 +6,5 @@ public class FinalTest {
 
         final Person person = new Person("Jacek", 22);
 
-        person = new Person("Placek", 21);
     }
 }
